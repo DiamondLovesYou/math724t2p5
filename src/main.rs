@@ -2,7 +2,7 @@
 // A rather brute force approach.
 
 pub fn main() {
-  let mut count = 1u64;
+  let mut count = 0u64;
 
   for i in 0..5u64 {
     for j in 0..17u64 {
